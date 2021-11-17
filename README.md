@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/AlanMauricioCastillo/AlanMauricioCastillo/main/comer-dormir-codificar-repetir_2560x1440_xtrafondos.com.jpg" alt="cover" />
+<img width="100%" height = "80%" src="https://raw.githubusercontent.com/AlanMauricioCastillo/AlanMauricioCastillo/main/comer-dormir-codificar-repetir_2560x1440_xtrafondos.com.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
