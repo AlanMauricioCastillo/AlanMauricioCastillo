@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "100%" src="https://www.wallpapertip.com/wmimgs/24-246645_programming-languages-wallpaper-hd.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://raw.githubusercontent.com/AlanMauricioCastillo/AlanMauricioCastillo/main/comer-dormir-codificar-repetir_2560x1440_xtrafondos.com.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -39,7 +39,6 @@
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=heroku&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/heroku.svg'> </a>
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=jest&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jest.svg'> </a>
-<a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=linked-in&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in.svg'> </a>
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=mocha&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mocha.svg'> </a>
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/AlanMauricioCastillo?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
