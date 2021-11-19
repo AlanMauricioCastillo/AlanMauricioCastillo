@@ -1,4 +1,5 @@
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
 <img width="100%" height = "80%" src="https://raw.githubusercontent.com/AlanMauricioCastillo/AlanMauricioCastillo/main/comer-dormir-codificar-repetir_2560x1440_xtrafondos.com.jpg" alt="cover" />
 </div>
@@ -55,6 +56,8 @@
 <a href = 'https://www.linkedin.com/in/www.linkedin.com/in/alancastillofullstackdeveloper'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@AlanCas94011193'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/AlanMauricioCastillo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alancastillofullstackdeveloper" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/alancastillofullstackdeveloper?trk=profile-badge">Mauricio Castillo - Di Franco</a></div>
+              
 
 
 
