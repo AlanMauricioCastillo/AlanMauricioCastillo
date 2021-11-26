@@ -62,7 +62,7 @@
 
 ![Metrics](https://metrics.lecoq.io/AlanMauricioCastillo?template=classic&config.timezone=America%2FToronto)
 
-  <p display= "none" >README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a></p>
+  <div display= "none" >README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a></div>
 
 <br>
-<footer align='center'><p>&copy; new Date().getFullYear() All Rights Reserved</p></footer>
+<footer align='center'><p>&copy; All Rights Reserved</p></footer>
