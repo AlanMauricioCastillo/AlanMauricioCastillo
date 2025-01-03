@@ -50,5 +50,5 @@
 <a href = 'https://www.linkedin.com/in/alancastillofullstackdeveloper/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/@AlanCas94011193'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
 
-<br>
+<br><br>
 <footer align='center'><p>&copy; All Rights Reserved</p></footer>
