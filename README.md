@@ -12,7 +12,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working <a href="https://www.valtech.com/" style="text-decoration: none;">Valtech</a>
+- 🔭 I’m currently working <a href="https://www.valtech.com/" style="text-decoration: none !important;">Valtech</a>
 
 - 🌱 I’m currently learning Next.Js 
 
