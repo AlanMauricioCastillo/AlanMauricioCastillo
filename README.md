@@ -12,9 +12,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Final draft [Academic]
+- 🔭 I’m currently working <a href="https://www.valtech.com/" style="text-decoration: none;">Valtech</a>
 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Next.Js 
 
 - 👯 I’m looking to collaborate on Project whit new challenges Ej. Python. 
 
